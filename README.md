@@ -1,6 +1,6 @@
 # E9-222-SPP-2024-Assignments-IISc
 
-This repository contains the assignments for the course **E9 222 - Signal Processing in Practice** offered by IISc Bangalore. The course covers various signal processing algorithms and theories with practical implementations.
+The course covers implementation of various aspects of signal processing algorithms and theory. This repository contains all the assignments that was completed through out the course. Each folder contains The Assignment Questions, The Solution in iPython Notebook or Matlab scripts (.mat), The Report in pdf.
 
 ## Assignments
 
