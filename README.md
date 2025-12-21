@@ -32,15 +32,3 @@ The course covers implementation of various aspects of signal processing algorit
     ```
 
 2. Follow the instructions in each assignment folder to complete the tasks.
-
-## Contributions
-
-Feel free to fork the repository and submit pull requests. For any issues, please open a ticket.
-
-## Contact
-
-For more information, contact the course instructor or visit the course page on IISc Bangalore's official website.
-
----
-
-You can further customize this template as needed for your specific requirements.
